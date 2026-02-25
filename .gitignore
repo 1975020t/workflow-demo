@@ -60,4 +60,4 @@ dmypy.json
 cython_debug/
 
 .rag_data/
-.DS_Store
+.DS_Store.env
